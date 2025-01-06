@@ -7,9 +7,9 @@ console.log(3 + 3);
 
 console.log("varad")
 
-let name = "varad"
-let age = 18
-let isLoggedIn = true/false // any one //
+let name = "varad" // string
+let age = 18 // number
+let isLoggedIn = true // 
 
 /* datatypes*/
 /* primitive datatypes*/
@@ -25,7 +25,7 @@ let isLoggedIn = true/false // any one //
 /*non-primitive datatypes*/
 // object =>
 
-console.log( typeof undefined); // undefined 
+console.log( typeof undefined); // undefined
 console.log( typeof null); // object
 
 
