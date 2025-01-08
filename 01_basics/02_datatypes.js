@@ -9,7 +9,7 @@ console.log("varad")
 
 let name = "varad" // string
 let age = 18 // number
-let isLoggedIn = true // 
+let isLoggedIn = true 
 
 /* datatypes*/
 /* primitive datatypes*/
@@ -28,6 +28,7 @@ let isLoggedIn = true //
 console.log( typeof undefined); // undefined
 console.log( typeof null); // object
 
-
+// let => let is the block scope
+// var => var is the globally scope
 
 
